@@ -1,0 +1,51 @@
+body{
+    background-color:yellow;
+    color:red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.mov1Container{
+    display: none;
+    /* border:solid purple; */
+    height:42vh;
+    margin-top: 20%;
+
+}
+.mov2Container{
+    display: block;
+    /* border:solid purple; */
+    height:62vh;
+    margin-top: 20%;
+}
+.mov3Container{
+    display: none;
+    /* border:solid purple; */
+    height:82vh;
+    margin-top: 20%;
+}
+.mov1Pics{
+    display: flex;
+    width:200px;
+    height:100%;
+    border:solid rgb(220, 188, 188);
+}
+
+.synopText{
+    display: block;
+    padding: 12px;
+    font-size: 1em;
+    text-align: center;
+    color: blue;
+}
+.morePic{
+    width: 100%;
+    height: 100%;
+    
+}
+
+button{
+    border-radius:22px;
+    padding:3px;
+    margin-top: 37% ;
+}

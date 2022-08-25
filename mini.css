@@ -6,8 +6,22 @@ body{
 }
 
 .mov1Container{
+    display: block;
     /* border:solid purple; */
     height:42vh;
+    margin-top: 20%;
+
+}
+.mov2Container{
+    display: none;
+    /* border:solid purple; */
+    height:62vh;
+    margin-top: 20%;
+}
+.mov3Container{
+    display: none;
+    /* border:solid purple; */
+    height:82vh;
     margin-top: 20%;
 }
 .mov1Pics{
