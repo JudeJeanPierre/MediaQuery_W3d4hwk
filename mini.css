@@ -1,0 +1,33 @@
+body{
+    background-color:yellow;
+    color:red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.mov1Container{
+    /* border:solid purple; */
+    height:42vh;
+    margin-top: 20%;
+}
+.pic1{
+    width:300px;
+    height:100%;
+    border:solid rgb(220, 188, 188);
+}
+.pic2{
+    width:300px;
+    height:100%;
+    border:solid rgb(220, 188, 188);
+.pic3{
+    width:300px;
+    height:100%;
+    border:solid rgb(220, 188, 188);
+}
+.synopText{
+    display: block;
+    padding: 12px;
+    font-size: 3em;
+    text-align: center;
+}
+
